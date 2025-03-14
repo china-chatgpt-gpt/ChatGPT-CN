@@ -1,6 +1,6 @@
 # Chat GPT 中文版：ChatGPT 国内如何使用？最新 GPT 使用攻略~ 【2025年更新】
 
-> 更新日期：2025-03-14        
+> 更新日期：2025-03-15         
 
 **全面体验 ChatGPT 中文版，无需翻墙，即可使用 GPT-4 及中文功能应用**  
 
@@ -8,7 +8,7 @@
 
 **ChatGPT 中文版入口：[https://chat.yixiaai.com](https://chat.yixiaai.com)**
 
-**ChatGPT 镜像网站：[https://chat.lify.vip](https://www.yixiaai.com)**
+**ChatGPT 镜像网站：[https://chat.lanjing.ai](https://chat.lanjing.ai)**
 
 ---
 
@@ -44,7 +44,7 @@
 |---------------------------------------|----------------------------------|--------|------------------------------------------------------------------|
 | **[yixiaai.com](https://chat.yixiaai.com)** | GPT-4, GPT-4o, o1, o3, DeepSeek-R1 | ⭐⭐⭐⭐⭐  | 支持 ChatGPT 和 DeepSeek 模型，支持 AI 绘画、AI 助手、AI 插件，适合学生党和打工人 |
 | **[chat.lify.vip](https://www.yixiaai.com)**     | GPT-4, GPT-4o, o1, o3, DeepSeek-R1 | ⭐⭐⭐⭐⭐  | 支持 o1、o3 和 R1 等全模型，支持 AI 写作、AI 编程、AI 办公，适应多种行业需求   |
-| **[guide1.lanjing.ai](https://guide1.lanjing.ai)** | GPT-4, GPT-4o, o1, DeepSeek-R1     | ⭐⭐⭐⭐   | 提供 AI 使用指南，ChatGPT 中文版使用指南                       |
+| **[chat.lanjing.ai](https://chat.lanjing.ai)** | GPT-4, GPT-4o, o1, DeepSeek-R1     | ⭐⭐⭐⭐   | 提供 AI 使用指南，ChatGPT 中文版使用指南                       |
 | **[yixiaai.cn](https://yixiaai.cn)**           | GPT-4, GPT-3.5, 4o mini           | ⭐⭐⭐⭐   | AI 工具导航网站，汇聚大量工具，满足你的各种需求                   |
 | **[lanjing.ai](https://lanjing.ai)**            | GPT-4, GPT-3.5, 4o mini           | ⭐⭐⭐    | 使用简单，易于上手，适合新手用户                                   |
 
