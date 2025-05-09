@@ -1,12 +1,12 @@
 # Chat GPT 中文版：ChatGPT 国内如何使用？最新 GPT 使用攻略~ 【2025年更新】
 
-> 更新日期：2025/05/08             
+> 更新日期：2025/05/10             
 
 **全面体验 ChatGPT 中文版，无需翻墙，即可使用 GPT-4 及中文功能应用**  
 
 本指南旨在为用户提供全面的 **ChatGPT 中文版使用指南**，同时整理了国内可用的 **ChatGPT 镜像网站**和**官网使用教程**，无论是工作学习还是日常生活中，都能满足你的需要~
 
-**ChatGPT 中文版入口：[https://chat.yixiaai.com](https://chat.yixiaai.com)**
+**ChatGPT 中文版入口：[https://chat.yixiaai.com](https://chat.xsimple.top)**
 
 **ChatGPT 镜像网站：[https://chat.lanjing.pro](https://chat.lanjing.pro)**
 
@@ -26,7 +26,7 @@
 
 ## ChatGPT 中文版是什么？
 
-**ChatGPT 中文版**是 OpenAI 开发的 ChatGPT 模型的中文版本，专为中文用户提供更流畅、更精准的 AI 对话体验。  
+[**ChatGPT 中文版**](https://chat.lanjing.pro) 是 OpenAI 开发的 ChatGPT 模型的中文版本，专为中文用户提供更流畅、更精准的 AI 对话体验。  
 
 与官方 ChatGPT 相比，**ChatGPT 中文版**在以下方面更适合国内用户：
 
